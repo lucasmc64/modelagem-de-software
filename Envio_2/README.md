@@ -1,2 +1,2 @@
 # Envio 2
-Pasta com o segundo envio.
+Pasta com o segundo envio do trabalho.
